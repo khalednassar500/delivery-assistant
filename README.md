@@ -19,6 +19,6 @@ A web application for managing and tracking delivery orders.
 
 If you wish to contribute to the project, please fork the repository and submit a pull request.
 
-## Authors
+## Author
 
 - **Khaled Nassar** - ( *Business fair* :- [github.com/khalednassar500](https://github.com/khalednassar500/) )
