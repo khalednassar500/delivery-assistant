@@ -2,7 +2,7 @@
 
 A web application for managing and tracking delivery orders.
 
-This is just a demo, it stores the data in "sessionStorage", but in the real version, the application, with the help of Node.js, stores the data in the database <br />
+>This is just a demo, it stores the data in "sessionStorage", but in the real version, the application, with the help of Node.js, stores the data in the database <br />
 ( [live demo](https://khalednassar500.github.io/delivery-assistant/) )
 
 # Features
